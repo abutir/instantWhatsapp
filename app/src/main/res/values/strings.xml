@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">واتساب فوري</string>
+    <string name="icon_name">واتساب فوري</string>
+    <string name="Banner_unit_id">ca-app-pub-8598927138770799/5682315096</string>
+<!--    <string name="BannerTest_unit_id">ca-app-pub-3940256099942544/6300978111</string>-->
+    <string name="Interstitial_unit_id">ca-app-pub-8598927138770799/9555424573</string>
+<!--    <string name="InterstitialTest_unit_id">ca-app-pub-3940256099942544/1033173712</string>-->
+    <string name="App_id">ca-app-pub-8598927138770799~7186968451</string>
+</resources>
